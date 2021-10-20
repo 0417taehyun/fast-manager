@@ -1,0 +1,26 @@
+site_name: Fast Manager
+site_description: Create Python Web Fast, Manage Easily
+
+theme:
+  name: material
+  langauge: en
+  
+nav:
+- FastAPI Manager: index.md
+- Langauges:
+  - en: /
+
+repo_name: 0417taehyun/fastapi-manager
+repo_url: https://github.com/0417taehyun/fastapi-manager
+
+plugins:
+- search
+
+extra:
+  social:
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/0417taehyun/fastapi-manager
+  alternate:
+  - link: /
+    name: en - English
+
